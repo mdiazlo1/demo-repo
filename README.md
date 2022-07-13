@@ -6,3 +6,6 @@ Some description!
 
 This is some more test text "hello world"
 
+## Local Development
+
+1. open index.html in your browser
